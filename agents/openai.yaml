@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文到可编辑 PowerPoint"
+  short_description: "论文精读、蓝白红页面、结构化SVG及PowerPoint原生转形验证"
+  default_prompt: "使用 $paper-to-powerpoint，把提供的论文制作成组会PPT，按已验证流程一次完成并检查可编辑成品。"
